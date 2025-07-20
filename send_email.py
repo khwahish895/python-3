@@ -3,8 +3,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Email configuration
-sender_email = "khwahishsingh2005@gmail.com"  # Replace with your email
-receiver_email = "khwahishsingh2005@gmail.com"  # Replace with recipient's email
+sender_email = ""  # Replace with your email
+receiver_email = ""  # Replace with recipient's email
 password = "xxxxxxxx"  # Replace with your email password
 
 # Create the email subject and body
